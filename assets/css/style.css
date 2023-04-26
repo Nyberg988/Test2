@@ -116,7 +116,7 @@ hr {
 #hero-image {
    height: 37.5rem;
    width: 100%;
-   background: url("../images/citrus-hero-image.webp") no-repeat center center;
+   background: url("../images/pexels-quark-studio-3201920.jpg") no-repeat center center;
    animation: hero-fade-in 5s;
    /* animates fade-in effect on loading page */
 }
@@ -336,7 +336,7 @@ footer {
 
 /* this is styling for the food menu page  */
 #carte-section {
-   background-image: url("../images/citrus-background.webp");
+   background-image: url("../images/pexels-quark-studio-3201921.jpg");
    background-repeat: no-repeat;
    background-size: auto;
    background-position: center;
@@ -445,7 +445,7 @@ footer {
 
 /* styling for the contact form */
 #contact-section {
-   background-image: url("../images/citrus-background.webp");
+   background-image: url("../images/pexels-quark-studio-3201921.jpg");
    background-repeat: no-repeat;
    background-size: auto;
    background-position: center;
